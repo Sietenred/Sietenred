@@ -3,7 +3,7 @@
 I am a Full Stack Developer Student - Specialized in Frontend MEAN Stack. Also in every new technology that is making our lives easier!
 - 🧩 I’m currently learning Data Structures and Algorithms
 - 🌍 I’m looking to collaborate on a PWA - Apps - and Webs projects.
-- <img src="https://www.flaticon.es/svg/vstatic/svg/630/630644.svg" width="13"/>   I,m from Venezuela
+- <img src="https://icons.iconarchive.com/icons/wikipedia/flags/32/VE-Venezuela-Flag-icon.png" width="13"/>   I,m from Venezuela
 - 🚀 I hope you can enjoy my code and it will help you, God bless you
 
 
