@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi :wave:
 
-<!--
-**Sietenred/Sietenred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full Stack Developer Student - Specialized in Frontend MEAN Stack. Also in every new technology that is making our lives easier!
+- 🧩 I’m currently learning Data Structures and Algorithms
+- 🌍 I’m looking to collaborate on a PWA - Apps - and Webs projects.
+- im from Venezuela venezuela
+- 🚀 I hope you can enjoy my code and it will help you, God bless you
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Know my skills
+
+
+[![Sietenred GitHub stats](https://github-readme-stats.vercel.app/api?username=sietenred)](https://github.com/anuraghazra/github-readme-stats)
+Reach out to me on :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/sietenred/)](https://www.linkedin.com/in/sietenred/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rvividha@gmail.com)](mailto:sietenred@gmail.com)
+
+Know my skills
