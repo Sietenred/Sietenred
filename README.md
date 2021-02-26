@@ -3,7 +3,7 @@
 I am a Full Stack Developer Student - Specialized in Frontend MEAN Stack. Also in every new technology that is making our lives easier!
 - 🧩 I’m currently learning Data Structures and Algorithms
 - 🌍 I’m looking to collaborate on a PWA - Apps - and Webs projects.
--  <img src="https://icons.iconarchive.com/icons/wikipedia/flags/48/VE-Venezuela-Flag-icon.png" width="15"/>    I,m from Venezuela, but now, i'm living in Spain <img src="https://icons.iconarchive.com/icons/custom-icon-design/flat-europe-flag/64/Spain-icon.png" width="15"/>
+-  <img src="https://icons.iconarchive.com/icons/wikipedia/flags/48/VE-Venezuela-Flag-icon.png" width="15"/>     I'm from Venezuela, but now, i'm living in Spain  <img src="https://icons.iconarchive.com/icons/custom-icon-design/flat-europe-flag/64/Spain-icon.png" width="15"/>
 - 🚀 I hope you can enjoy my code and it will help you, God bless you
 
 
@@ -27,7 +27,7 @@ Know my skills
 <br>
 [![Sietenred GitHub stats](https://github-readme-stats.vercel.app/api?username=sietenred)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+<br>
 Reach out to me on :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/fabianchirino/)](https://www.linkedin.com/in/fabianchirino/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rvividha@gmail.com)](mailto:sietenred@gmail.com)
 
-Know my skills
