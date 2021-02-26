@@ -3,7 +3,7 @@
 I am a Full Stack Developer Student - Specialized in Frontend MEAN Stack. Also in every new technology that is making our lives easier!
 - 🧩 I’m currently learning Data Structures and Algorithms
 - 🌍 I’m looking to collaborate on a PWA - Apps - and Webs projects.
-- 🇻: U+1F1FB i,m from Venezuela
+- U+1F1FB i,m from Venezuela  :U+1F1FB:
 - 🚀 I hope you can enjoy my code and it will help you, God bless you
 
 
