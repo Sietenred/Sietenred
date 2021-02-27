@@ -6,7 +6,10 @@ I am a Full Stack Developer Student - Specialized in Frontend MEAN Stack. Also i
 -  <img src="https://icons.iconarchive.com/icons/wikipedia/flags/48/VE-Venezuela-Flag-icon.png" width="16"/>     I'm from Venezuela, but now, I'm living in Spain  <img src="https://icons.iconarchive.com/icons/custom-icon-design/flat-europe-flag/64/Spain-icon.png" width="19"/>
 - 🚀 I hope you can enjoy my code and it will help you.
 
+<img src="https://www.freeiconspng.com/img/29859
+" width="15"/>
 
+href="https://www.freeiconspng.com/img/29859
 
 Know my skills 
 <br>
