@@ -3,7 +3,7 @@
 I am a Full Stack Developer Student - Specialized in Frontend MEAN Stack. Also in every new technology that is making our lives easier!
 - 🧩 I’m currently learning Data Structures and Algorithms.
 - 🌍 I’m looking to collaborate on a PWA - Apps - and Webs projects.
--  <img src="https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/48/Venezuela-icon.png" width="1"/>     I'm from Venezuela, but now, I'm living in Spain  <img src="https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/48/Spain-icon.png" width="15"/>
+- <p> </p> <img src="https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/48/Venezuela-icon.png" width="16"/>     I'm from Venezuela, but now, I'm living in Spain <p> </p>  <img src="https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/48/Spain-icon.png" width="16"/>
 - 🚀 I hope you can enjoy my code and it will help you.
 
 
